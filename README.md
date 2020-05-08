@@ -3,4 +3,5 @@
 Repositories for lectures 12 and 13: Descriptive and Inferential data analysis
 
  * [Lecture 12](lecture12.ipynb)
+ * [Lecture 13](lecture13.ipynb)
  
